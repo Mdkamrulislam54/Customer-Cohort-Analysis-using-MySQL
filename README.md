@@ -5,6 +5,11 @@
 This project aims to conduct a cohort analysis using MySQL to segment data into cohorts based on shared characteristics, primarily focusing on customer and revenue metrics over time. By analyzing various aspects like invoice counts, customer counts, and revenue by cohort, this project provides valuable insights into customer retention, purchasing behavior, and revenue trends. Power BI visualizations are used to display these analyses for clearer interpretation and strategic decision-making.
 
 Check the **Output** Below:
+![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-MySQL/blob/4301c77f14ac1d7c218f7f7d58433c8f9a2136b2/Customer%20Retention%20Analysis.png)
+![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-MySQL/blob/4301c77f14ac1d7c218f7f7d58433c8f9a2136b2/Customer%20Retention%20Rate%20%25.png)
+![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-MySQL/blob/4301c77f14ac1d7c218f7f7d58433c8f9a2136b2/Customer%20Churn%20Rate%20%25.png)
+![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-MySQL/blob/4301c77f14ac1d7c218f7f7d58433c8f9a2136b2/Customer%20Lifetime%20Value.png)
+![Alt text](https://github.com/Mdkamrulislam54/Customer-Cohort-Analysis-using-MySQL/blob/4301c77f14ac1d7c218f7f7d58433c8f9a2136b2/Customer%20Average%20Spend.png)
 
 
 
